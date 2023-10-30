@@ -1,0 +1,19 @@
+{
+    "name": "ggfragerjamannow/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ggfragerjamannow\\BelajarPhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iswara Dendy A.",
+            "email": "126663320+IswaraDend@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    }
+}
